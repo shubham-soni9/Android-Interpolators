@@ -3,6 +3,8 @@ This is a simple project used to understand how interpolator affects the animati
 
 
 
+[Check Video Here](https://firebasestorage.googleapis.com/v0/b/englsih-with-pictures.appspot.com/o/Github%20Projects%2Finterpolators.mp4?alt=media&token=71eb338e-be7e-4633-8e08-c92fe7147cc9)
+
 [Download Demo](https://github.com/shubhamsoni00000/Android-Interpolators/blob/master/app-debug.apk)
 
 
