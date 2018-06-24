@@ -4,7 +4,7 @@ This is a simple project used to understand how interpolator affects the animati
 
 ![Check Video Here](https://github.com/shubhamsoni00000/Android-Interpolators/blob/master/interpolators.mp4)
 
-[Download Demo](https://github.com/daimajia/AndroidViewAnimations/releases/download/v1.1.2/AndroidViewAnimations-1.1.2.apk)
+[Download Demo](https://github.com/shubhamsoni00000/Android-Interpolators/blob/master/app-debug.apk)
 
 
 # Usage
