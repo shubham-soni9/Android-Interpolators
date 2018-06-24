@@ -35,7 +35,7 @@ public class MainActivity extends Activity {
     }
 
     private void startAnimation(Interpolator interpolator) {
-        SampleAnim.startAnimation(ivTestObject, interpolator);
+        AnimationUtil.startAnimation(ivTestObject, interpolator);
     }
 
     public void onBtnClick(View view) {
